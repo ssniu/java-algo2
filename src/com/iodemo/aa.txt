@@ -1,0 +1,55 @@
+How Today’s Computers Weaken Our Brain
+
+
+By Tim Wu   September 9, 2013
+At 10 P.M. on September 22, 1912, Franz Kafka, then a twenty-nine-year-old lawyer, sat down at his typewriter in Prague and began to write. He wrote and wrote, and eight hours later he had finished “Das Urteil” (“The Judgment”).
+
+Kafka wrote in his diary, “I was hardly able to pull my legs out from under the desk, they had got so stiff from sitting. The fearful strain and joy, how the story developed before me, as if I were advancing over water.” He later described the one-sitting method as his preferred means of writing. “Only in this way can writing be done, only with such coherence, with such a complete opening out of the body and soul.”
+
+In April, 1951, on the sixth floor of a brownstone in New York’s Chelsea neighborhood, Jack Kerouac began taping together pieces of tracing paper to create a hundred-and-twenty-foot-long roll of paper, which he called “the scroll.” Three weeks later, typing without needing to pause and change sheets, he’d filled his scroll with the first draft of “On the Road,” without paragraph breaks or margins.
+
+In 1975, Steve Jobs, working the night shift at Atari, was asked if he could design a prototype of a new video game, Breakout, in four days. He took the assignment and contacted his friend Steve Wozniak for help. Wozniak described the feat this way: “Four days? I didn’t think I could do it. I went four days with no sleep. Steve and I both got mononucleosis, the sleeping sickness, and we delivered a working Breakout game.”
+
+
+The accomplishments of Kafka, Kerouac, and Wozniak are impressive, but not completely atypical of what can be achieved by talented people in states of supreme concentration. The more interesting question is this: Would their feats be harder today, or easier?
+
+On the one hand, today’s computers feature programming and writing tools more powerful than anything available in the twentieth century. But, in a different way, each of these tasks would be much harder: on a modern machine, each man would face a more challenging battle with distraction. Kafka might start writing his book and then, like most lawyers, realize he’d better check e-mail; so much for “Das Urteil.” Kerouac might get caught in his Twitter feed, or start blogging about his road trip. Wozniak might have corrected an erroneous Wikipedia entry in the midst of working on Breakout, and wrecked the collaboration that later became Apple.
+
+
+Kafka, Kerouac, and Wozniak had one advantage over us: they worked on machines that did not readily do more than one thing at a time, easily yielding to our conflicting desires. And, while distraction was surely available—say, by reading the newspaper, or chatting with friends—there was a crucial difference. Today’s machines don’t just allow distraction; they promote it. The Web calls us constantly, like a carnival barker, and the machines, instead of keeping us on task, make it easy to get drawn in—and even add their own distractions to the mix. In short: we have built a generation of “distraction machines” that make great feats of concentrated effort harder instead of easier.
+
+It’s time to create more tools that help us with what our brains are bad at, such as staying on task. They should help us achieve states of extreme concentration and focus, not aid in distraction. We need a new generation of technologies that function more like Kerouac’s scroll or Kafka’s typewriter.
+
+***
+
+To understand what has happened, we need to return to the nineteen-sixties, when computers were giant, slow machines that served dozens and sometimes hundreds of people at once. Such computers needed a way to deal with competing requests for processing resources. Engineers devised various techniques for handling this problem—known first as time-sharing, and later as multitasking, operating systems. In essence, multitasking algorithms used clever techniques to share the computing power available among multiple users as fairly and smoothly as possible. With multitasking, it was possible with a single computer for many people to have the illusion of having their own machine.
+
+The engineers who designed time-sharing and multitasking probably never imagined that their ideas would be used for personal computers—if each user already had a computer, why would he or she need multitasking? And when the first mass-market personal computers, like the Apple II, arrived in the late seventies, their highly limited processing power was used to perform a single task at a time. It was programming or word processing, but not both at once.
+
+The rise of multitasking capabilities in personal computers cannot be separated from other developments, beginning with the introduction of the familiar desktop/window interface that began in the sixties and reached the public in the eighties, via the original Apple Macintosh. The very idea of a “desktop” with different “windows” implies a user who can switch between tasks. As Alan Kay, one of the inventors of the first functioning window-style system, at Xerox in the seventies, explained in an interview, “We generally want to view and edit more than one kind of scene at the same time—this could be as simple as combining pictures and text in the same glimpse, or deal with more than one kind of task, or compare different perspectives of the same model.”
+
+The purpose of multitasking had gone from supporting multiple users on one computer to supporting multiple desires within one person at the same time. The former usage resolves conflicts among the many, while the latter can introduce internal conflict; when you think about it, trying to fulfill multiple desires at once is the opposite of concentration.
+
+
+A second crucial advance was the huge increase in the speed of computer processors over the past three decades. Only with this kind of power could personal computers multitask in an acceptable way. It was immediately assumed that, once achieved, multitasking represented an important technical advance over “single-tasking” machines. For example, an old guide to Apple operating systems declared, “Way back when Macs were new, operating systems were meant to be operated by one user working with one program. Obviously, this is no longer the case. Today, we want our computers to do more, faster, with less work on our part.”
+
+Of course, in a technical sense a multitasking machine is more advanced. But we can already see where things might be going astray. We don’t really want our computers to accomplish more—it’s us, the humans, who need to get things done. This subtle point is all-important, and shows a need to return to the basics of what computers are for.
+
+When, in the sixties, J. C. R. Licklider and Douglas Engelbart proposed that computers should ultimately serve as a tool of human augmentation, they changed what computers would come to be. The computer, they argued, shouldn’t try to be independently intelligent, like R2-D2. Rather, it should be a tool that works with the human brain to make it more powerful, a concept that Licklider called “man-computer symbiosis.”
+
+From this perspective, the multitasking capabilities of today’s computers are sometimes a form of augmentation—but only sometimes. It can be helpful to toggle between browser pages and a to-do list, or to talk on Skype while looking at a document. But other times we need to use computers for tasks that require sustained concentration, and it is here that machines sometimes degrade human potential.
+
+While the brain is good at many things, it is rather bad at others. It’s not very good at achieving extreme states of concentration through sustained attention. It takes great training and effort to maintain attention on one object—in what Buddhists call concentration meditation—because the brain is highly susceptible to both voluntary and involuntary demands on its attention. Second, the brain is not good at conscious multitasking, or trying to pay active attention to more than one thing at once. Perhaps computer designers once hoped that our machines could train the brain to multitask more effectively, but recent research suggests that this effort has failed.
+
+In short, we are easy to distract, and very bad at doing two or more things at the same time. Yet our computers, supposedly our servants, constantly distract us and ask us to process multiple streams of information at the same time. It can make you wonder, Just who is in charge here?
+
+To be sure, efforts are being made to deal with the problems I’ve described. The designers of the Freedom program give users a way to boost productivity by switching off the Internet, the chief source of distraction in our times. Some people turn to caffeine or Adderall as an aid to concentration, or achieve similar effects through the use of emotions like the fear created by deadlines or the possibility of being fired.
+
+But we should be searching for solutions that don’t rely on drugs or imminent job loss. What we need are machines that are built from the ground up purposely to minimize distraction and help us sustain attention for hard tasks. We need computers and devices that return to the project of human augmentation by taking the brain’s limits seriously, and helping us overcome them.
+
+What this looks like, I’m not exactly sure, although I am sure we should be trying to find out. Perhaps all we need are computers that lock into different modes: chore mode, communication mode and concentrated work mode. In the work modes, the machine would do what it could to keep you on track, in ways both subtle and less so. We also need designers cognizant of the brain’s weaknesses, who strive to eliminate or minimize unnecessary distractions, such as beeps for e-mails, bouncing icons and unnecessary pop-up windows.
+
+
+There will always be some who say that all anyone needs to deal with these problems is better discipline or will power—that Kafka, being Kafka, would stay on task in 2013 just as well as in 1912. I’m not so sure. Discipline is useful, but so is an environment and tools that actually help, rather than hinder. The strange part is that we now have technological powers to shape our environment that were unimaginable to earlier generations, yet we don’t use them with a realistic view of the brain’s weaknesses.
+
+Perhaps a single rule is enough: our computers should never make us stupider.

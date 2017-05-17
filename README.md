@@ -1,1 +1,1 @@
-# java-algo02
+algorithm
